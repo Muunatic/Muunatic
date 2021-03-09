@@ -11,7 +11,7 @@
 
 <h2 align="center">ɢɪᴛʜᴜʙ sᴛᴀᴛs</h2>
 <p align="center">
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=Mephysics&show_icons=true&title_color=151515&icon_color=bb2acf&text_color=777&bg_color=ffffff">
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=Mephysics&show_icons=true&include_all_commits=true&title_color=151515&icon_color=bb2acf&text_color=777&bg_color=ffffff">
 </p>
 <p align="center">
 <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mephysics&title_color=333&text_color=777&layout=compact">
