@@ -4,17 +4,17 @@
 
 <h2 align="center">ʜᴇʟʟᴏ ᴡᴏʀʟᴅ</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <br>
 
 <h2 align="center">ɢɪᴛʜᴜʙ sᴛᴀᴛs</h2>
 <p align="center">
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=Mephysics&show_icons=true&count_private=true&include_all_commits=true&title_color=151515&icon_color=bb2acf&text_color=777&bg_color=ffffff">
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=Mephysics&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight">
 </p>
 <p align="center">
-<img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mephysics&title_color=333&text_color=777&layout=compact">
+<img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mephysics&layout=compact&theme=tokyonight">
 </p>
 
 <br>
