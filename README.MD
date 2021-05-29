@@ -18,6 +18,6 @@
 ## ᴄʟɪᴄᴋ ᴍᴇ
 <p align="left">
 <a href="https://discordapp.com/users/527415996508536832"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://twitter.com/Mephysicz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/Mephyz"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/16067041/mephysics"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 </p>
