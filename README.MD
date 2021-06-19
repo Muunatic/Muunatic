@@ -19,5 +19,5 @@
 <p align="left">
 <a href="https://discordapp.com/users/527415996508536832"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/Mephyz"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/16067041/mephysics"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+<a href="https://www.reddit.com/u/Mephysicz"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </p>
