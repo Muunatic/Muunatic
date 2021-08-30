@@ -10,10 +10,10 @@
 
 ## ᴍʏ ᴘʀᴏᴊᴇᴄᴛs
 <p align="left">
-<img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=Mephysics&repo=MephystOS&theme=tokyonight">
+<a href="https://github.com/Mephysics/MephystOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mephysics&repo=MephystOS&theme=tokyonight"></a>
 </p>
 <p align="left">
-<img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=Mephysicz&repo=github-AutoResponse&theme=tokyonight">
+<a href="https://github.com/Mephysicz/github-AutoResponse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mephysicz&repo=github-AutoResponse&theme=tokyonight"></a>
 </p>
 
 <br>
