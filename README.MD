@@ -8,6 +8,16 @@
 
 <br>
 
+## ᴍʏ ᴘʀᴏᴊᴇᴄᴛs
+<p align="left">
+<img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=Mephysics&repo=MephystOS&theme=tokyonight">
+</p>
+<p align="left">
+<img align="bottom" src="https://github-readme-stats.vercel.app/api/pin/?username=Mephysicz&repo=github-AutoResponse&theme=tokyonight">
+</p>
+
+<br>
+
 ## ᴍᴀʟ ᴘʀᴏғɪʟᴇ
 <p align="left">
 <a href="https://myanimelist.net/profile/Mephysics"><img src="https://malsignature.com/?/view?username=Mephysics&style=normal"></a>
