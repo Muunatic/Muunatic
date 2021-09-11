@@ -10,6 +10,9 @@
 
 ## ᴍʏ ᴘʀᴏᴊᴇᴄᴛs
 <p align="left">
+<a href="https://github.com/Mephysics/RyU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mephysics&repo=RyU&theme=tokyonight"></a>
+</p>
+<p align="left">
 <a href="https://github.com/Mephysics/MephystOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mephysics&repo=MephystOS&theme=tokyonight"></a>
 </p>
 <p align="left">
