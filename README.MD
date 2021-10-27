@@ -1,22 +1,22 @@
 # ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴘʀᴏғɪʟᴇ.ᴇxᴇ
 <p align="left">
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=Mephysics&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=Mephysics GitHub Stats">
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=Muunatic&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=Muunatic GitHub Stats">
 </p>
 <p align="left">
-<img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mephysics&layout=compact&theme=tokyonight">
+<img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muunatic&layout=compact&theme=tokyonight">
 </p>
 
 <br>
 
 ## ᴍʏ ᴘʀᴏᴊᴇᴄᴛs
 <p align="left">
-<a href="https://github.com/Mephysics/RyU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mephysics&repo=RyU&theme=tokyonight"></a>
+<a href="https://github.com/Muunatic/RyU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mephysics&repo=RyU&theme=tokyonight"></a>
 </p>
 <p align="left">
-<a href="https://github.com/Mephysics/MephystOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mephysics&repo=MephystOS&theme=tokyonight"></a>
+<a href="https://github.com/Muunatic/MephystOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mephysics&repo=MephystOS&theme=tokyonight"></a>
 </p>
 <p align="left">
-<a href="https://github.com/Mephysicz/github-AutoResponse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mephysicz&repo=github-AutoResponse&theme=tokyonight"></a>
+<a href="https://github.com/Muunatic/github-AutoResponse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mephysicz&repo=github-AutoResponse&theme=tokyonight"></a>
 </p>
 
 <br>
