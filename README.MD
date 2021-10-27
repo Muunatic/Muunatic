@@ -10,10 +10,10 @@
 
 ## ᴍʏ ᴘʀᴏᴊᴇᴄᴛs
 <p align="left">
-<a href="https://github.com/Muunatic/RyU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mephysics&repo=RyU&theme=tokyonight"></a>
+<a href="https://github.com/Muunatic/RyU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Muunatic&repo=RyU&theme=tokyonight"></a>
 </p>
 <p align="left">
-<a href="https://github.com/Muunatic/MephystOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mephysics&repo=MephystOS&theme=tokyonight"></a>
+<a href="https://github.com/Muunatic/MephystOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Muunatic&repo=MephystOS&theme=tokyonight"></a>
 </p>
 <p align="left">
 <a href="https://github.com/Muunatic/github-AutoResponse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mephysicz&repo=github-AutoResponse&theme=tokyonight"></a>
