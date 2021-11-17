@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-<a href="https://github.com/Muunatic/github-AutoResponse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mephysicz&repo=github-AutoResponse&theme=tokyonight"></a>
+<a href="https://github.com/Mephysicz/github-AutoResponse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mephysicz&repo=github-AutoResponse&theme=tokyonight"></a>
 </p>
 
 <br>
@@ -28,5 +28,6 @@
 
 ## ᴄʟɪᴄᴋ ᴍᴇ
 <p align="left">
+<a href="https://muunatic.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a href="https://steamcommunity.com/id/Mephyz"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
 </p>
