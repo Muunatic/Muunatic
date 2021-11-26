@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-<a href="https://github.com/Mephysicz/github-AutoResponse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Mephysicz&repo=github-AutoResponse&theme=tokyonight"></a>
+<a href="https://github.com/Muunatic/github-AutoResponse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Muunatic&repo=github-AutoResponse&theme=tokyonight"></a>
 </p>
 
 <br>
