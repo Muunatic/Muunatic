@@ -1,9 +1,9 @@
 # ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴘʀᴏғɪʟᴇ.ᴇxᴇ
 <p align="left">
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=Muunatic&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=Muunatic GitHub Stats&hide_border=true">
+<a href="https://github-readme-stats.vercel.app/api?username=Muunatic&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=Muunatic GitHub Stats&hide_border=true"><img src="https://github-readme-stats.vercel.app/api?username=Muunatic&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=Muunatic GitHub Stats&hide_border=true">
 </p>
 <p align="left">
-<img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muunatic&layout=compact&langs_count=10&theme=tokyonight&hide_border=true">
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=Muunatic&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muunatic&layout=compact&langs_count=10&theme=tokyonight&hide_border=true">
 </p>
 
 <br>
