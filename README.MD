@@ -13,10 +13,6 @@
 <a href="https://github.com/Muunatic/RyU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Muunatic&repo=RyU&theme=tokyonight&hide_border=true"></a>
 </p>
 
-<p align="left">
-<a href="https://github.com/Muunatic/github-AutoResponse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Muunatic&repo=github-AutoResponse&theme=tokyonight&hide_border=true"></a>
-</p>
-
 <br>
 
 ## ᴍᴀʟ ᴘʀᴏғɪʟᴇ
