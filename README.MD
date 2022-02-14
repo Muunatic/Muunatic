@@ -25,6 +25,6 @@
 ## ᴄʟɪᴄᴋ ᴍᴇ
 <p align="left">
 <a href="https://muunatic.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-<a href="https://steamcommunity.com/id/Mephyz"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
+<a href="https://steamcommunity.com/id/Luunatix"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
 <a href="https://www.npmjs.com/~mephysicz"><img src="https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white"/></a>
 </p>
