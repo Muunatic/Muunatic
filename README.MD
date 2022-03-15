@@ -15,13 +15,6 @@
 
 <br>
 
-## ᴍᴀʟ ᴘʀᴏғɪʟᴇ
-<p align="left">
-<a href="https://myanimelist.net/profile/Muunatic"><img src="https://malsignature.com/?/view?username=Muunatic&style=normal"></a>
-</p>
-
-<br>
-
 ## ᴄʟɪᴄᴋ ᴍᴇ
 <p align="left">
 <a href="https://muunatic.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
