@@ -1,4 +1,9 @@
-# ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴘʀᴏғɪʟᴇ.ᴇxᴇ
+<h1 align="left">ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴘʀᴏғɪʟᴇ.ᴇxᴇ</h1>
+
+## ɢɪᴛʜᴜʙ sᴛᴀᴛs
+<p align="left">
+<a href="https://github-readme-stats.vercel.app/api?username=Muunatic&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=Muunatic GitHub Stats&hide_border=true"><img src="https://activity-graph.herokuapp.com/graph?username=Muunatic&hide_border=true&theme=react-dark&line=628fda&bg_color=1a1b27&color=6c9ff4">
+</p>
 <p align="left">
 <a href="https://github-readme-stats.vercel.app/api?username=Muunatic&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=Muunatic GitHub Stats&hide_border=true"><img src="https://github-readme-stats.vercel.app/api?username=Muunatic&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=Muunatic GitHub Stats&hide_border=true">
 </p>
@@ -8,16 +13,13 @@
 
 <br>
 
-## ᴍʏ ᴘʀᴏᴊᴇᴄᴛs
+## ᴘʀᴏᴊᴇᴄᴛs
+<p align="left">
+<a href="https://github.com/DefinitelyTyped/DefinitelyTyped"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DefinitelyTyped&repo=DefinitelyTyped&theme=tokyonight&hide_border=true"></a>
+</p>
 <p align="left">
 <a href="https://github.com/Muunatic/RyU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Muunatic&repo=RyU&theme=tokyonight&hide_border=true"></a>
 </p>
-
-<br>
-
-## ᴄʟɪᴄᴋ ᴍᴇ
 <p align="left">
-<a href="https://muunatic.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-<a href="https://steamcommunity.com/id/Luunatix"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
-<a href="https://www.npmjs.com/~mephysicz"><img src="https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=white"/></a>
+<a href="https://github.com/Muunatic/Vladilena"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Muunatic&repo=Vladilena&theme=tokyonight&hide_border=true"></a>
 </p>
