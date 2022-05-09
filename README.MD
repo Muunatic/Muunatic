@@ -11,13 +11,7 @@
 
 <br>
 
-## ᴘʀᴏᴊᴇᴄᴛs
+## ᴄᴏɴᴛʀɪʙᴜᴛᴇᴅ ᴛᴏ
 <p align="left">
 <a href="https://github.com/DefinitelyTyped/DefinitelyTyped"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DefinitelyTyped&repo=DefinitelyTyped&theme=tokyonight&hide_border=true"></a>
-</p>
-<p align="left">
-<a href="https://github.com/Muunatic/RyU"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Muunatic&repo=RyU&theme=tokyonight&hide_border=true"></a>
-</p>
-<p align="left">
-<a href="https://github.com/Muunatic/Vladilena"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Muunatic&repo=Vladilena&theme=tokyonight&hide_border=true"></a>
 </p>
