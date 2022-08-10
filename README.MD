@@ -3,7 +3,7 @@
 <a href="https://activity-graph.herokuapp.com/graph?username=Muunatic&hide_border=true&theme=react-dark&line=628fda&bg_color=1a1b27&color=6c9ff4"><img src="https://activity-graph.herokuapp.com/graph?username=Muunatic&hide_border=true&theme=react-dark&line=628fda&bg_color=1a1b27&color=6c9ff4">
 </p>
 <p align="left">
-<a href="https://github-readme-stats-rongronggg9.vercel.app/api?username=Muunatic&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=Muunatic GitHub Stats&hide_border=true"><img src="https://github-readme-stats-rongronggg9.vercel.app/api?username=Muunatic&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=Muunatic GitHub Stats&hide_border=true">
+<a href="https://github-readme-stats-rongronggg9.vercel.app/api?username=Muunatic&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=Muunatic%20GitHub%20Stats&hide_border=true"><img src="https://github-readme-stats-rongronggg9.vercel.app/api?username=Muunatic&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=Muunatic%20GitHub%20Stats&hide_border=true">
 </p>
 <p align="left">
 <a href="https://github-readme-stats.vercel.app/api/top-langs?username=Muunatic&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muunatic&layout=compact&langs_count=10&theme=tokyonight&hide_border=true">
