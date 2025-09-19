@@ -1,9 +1,9 @@
 # ɢɪᴛʜᴜʙ sᴛᴀᴛs
 <p align="left">
-<a href="https://github-readme-stats-rongronggg9.vercel.app/api?username=Muunatic&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=Muunatic%20GitHub%20Stats&hide_border=true"><img src="https://github-readme-stats-rongronggg9.vercel.app/api?username=Muunatic&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=Muunatic%20GitHub%20Stats&hide_border=true"></a>
+<a href="https://readme.muunatic.dev/?username=Muunatic&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=Muunatic%20GitHub%20Stats&hide_border=true"><img src="https://readme.muunatic.dev/?username=Muunatic&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&custom_title=Muunatic%20GitHub%20Stats&hide_border=true"></a>
 </p>
 <p align="left">
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=muunatic&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muunatic&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"></a>
+<a href="https://readme.muunatic.dev/top-langs/?username=muunatic&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"><img src="https://readme.muunatic.dev/top-langs/?username=muunatic&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"></a>
 </p>
 
 <p align="left">
